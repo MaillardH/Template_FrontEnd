@@ -1,0 +1,1 @@
+Pour gérer les appels API ou des services externes
