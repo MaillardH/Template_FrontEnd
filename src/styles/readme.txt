@@ -1,0 +1,1 @@
+On regroupe ici tous les fichiers de styles globaux, tels que les fichiers CSS qui définissent le style général de l'application.

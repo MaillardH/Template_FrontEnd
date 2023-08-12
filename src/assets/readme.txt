@@ -1,0 +1,1 @@
+On place ici les fichiers statiques comme les images, les polices de caractères, etc.
