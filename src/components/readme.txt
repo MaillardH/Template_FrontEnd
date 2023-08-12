@@ -7,6 +7,16 @@ On utilise généralement les suffixes suivants:
 
 Par exemple : ProductList, UserForm, LoginButton, CartItem
 
+// Bon
+import UserProfile from './UserProfile';
+import ProductList from './ProductList';
+import CartItem from './CartItem';
+
+// Évitez
+import UserProf from './UserProf';
+import ProdList from './ProdList';
+import CItem from './CItem';
+
 Genre > 
 
 components > Header > 
